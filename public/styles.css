@@ -1,0 +1,35 @@
+body {
+    width: 100vw;
+    height: 100vh;
+    font-family: 'Quicksand', sans-serif;
+}
+
+p {
+    font-weight: lighter;
+    line-height: 24px;
+    margin-bottom: 20px;
+}
+
+#main-card {
+    width: 70%;
+    max-width: 45rem;
+    margin: 4rem auto;
+}
+
+a, a:hover, a:visited, a:active {
+  color: #D60068;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+a:hover {
+  color: #9c004c;
+}
+
+#icons a {
+  font-size: 40px;
+}
+
+i {
+  margin-right: 20px;
+}
